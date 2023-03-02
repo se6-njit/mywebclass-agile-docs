@@ -1,18 +1,25 @@
-# Theme 1.0: Project Setup
+# Theme 1.0: Developing a Website - mywebclass.org Project
+
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+
+Our goal is to create a prominent and noticeable online presence by utilizing lean and agile methodologies to develop a robust foundation for our web project. We aim to complete the various initiatives outlined in this theme to establish a strong foundation that guarantees our website satisfies our business requirements for the entirety of the project's lifespan, ultimately positioning us for long-term success.
+
+To achieve our objective, we will employ lean principles, which emphasize the elimination of waste in our development process, allowing us to focus on essential features that align with our business goals. Additionally, we will utilize agile methodologies, which enable us to work in an iterative and incremental fashion, allowing for flexibility and adaptability in response to feedback and changes in requirements. By implementing these principles, we aim to create a web presence that is not only highly visible but also functional and user-friendly, providing an exceptional experience for our target audience. Our strong foundation will allow us to build upon our initial efforts, continually enhancing and refining our website to meet our evolving business needs and customer demands.
+
+This approach to developing a highly visible web presence using lean and agile principles is focused on establishing a strong foundation that supports our long-term success. Through our commitment to efficiency, flexibility, and customer satisfaction, we are confident in our ability to create a website that aligns with our business goals and delivers value to our customers.
+
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Draft initial project documentation in order to establish a well-defined project scope](initiatives/documentation_initiative.md)
+  * By engaging in this planning process, the project can be crafted with precision and efficiency.
+* [Establish the Continuous Integration/Continuous Delivery DevOps workflows to guarantee streamlined and collaborative development practices](initiatives/initiative_devops.md)
+* [Designing and developing the preliminary webpage template for the mywebclass.org website](initiatives/initiative_webpage_template.md)
+  * This will involve the development of the website using a particular framework.
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+## Test plan(s)
 
-## Test plan
-How will this be tested?
+* Use Google Analytics to monitor user behavior.
+* Utilize Playwright for automated browser testing.
+* Regularly check the website for W3C validation.
+* Use Lighthouse for overall website performance assessment.
+* Implement GDPR Scanner for compliance with GDPR regulations.
