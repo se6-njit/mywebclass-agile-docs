@@ -2,7 +2,7 @@
 
 ## User Story
 
-link to prev user story
+- [Simple wireframe of the website](../story_wireframe_doc.md)
 
 ## Description
 
