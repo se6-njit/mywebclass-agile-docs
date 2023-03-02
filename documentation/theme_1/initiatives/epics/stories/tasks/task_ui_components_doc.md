@@ -15,7 +15,7 @@ the wireframe design and approval from the client.
 
 ### Effort Estimate: 10 points
 
-### Assigned To: Stephen Ebrahim
+### Assigned To: Stephen Ebrahim (@se6-njit)
 
 ### Priority: High
 
