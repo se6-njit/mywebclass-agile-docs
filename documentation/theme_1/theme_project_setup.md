@@ -14,7 +14,7 @@ This approach to developing a highly visible web presence using lean and agile p
   * By engaging in this planning process, the project can be crafted with precision and efficiency.
 * [Establish the Continuous Integration/Continuous Delivery DevOps workflows to guarantee streamlined and collaborative development practices](initiatives/initiative_devops.md)
 * [Designing and developing the preliminary webpage template for the mywebclass.org website](initiatives/initiative_webpage_template.md)
-  * This will involve the development of the website using a particular framework.
+  * This will involve the development of the website using a particular framework, using the TDD (Test-driven development) approach, etc.
 
 ## Test plan(s)
 
