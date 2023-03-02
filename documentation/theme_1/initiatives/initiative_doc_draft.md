@@ -69,3 +69,8 @@ stakeholders.
   documentation
 - Stakeholder Engagement Lead: Responsible for stakeholder identification and
   engagement
+
+# List epics related to this theme
+
+1. [Documentation for the website design](documentation/templates/theme/initiatives/epics/epic_template.md)
+   Note: This is just an example of one epic that relates to this initiative.
