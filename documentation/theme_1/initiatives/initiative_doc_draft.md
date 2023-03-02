@@ -72,5 +72,5 @@ stakeholders.
 
 # List epics related to this theme
 
-1. [Documentation for the website design](/epics/epic_web_design_doc.md)
+1. [Documentation for the website design](epics/epic_web_design_doc.md)
    Note: This is just an example of one epic that relates to this initiative.
