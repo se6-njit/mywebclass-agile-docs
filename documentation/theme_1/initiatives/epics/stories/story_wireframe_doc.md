@@ -10,3 +10,7 @@ website.
 - The wireframe should be simple and easy to understand for stakeholders.
 - The wireframe should be reviewed and approved by stakeholders before
   proceeding with the design.
+
+# List Tasks related to this theme
+
+- [UI Components on Main Website](tasks/task_ui_components_doc.md)
