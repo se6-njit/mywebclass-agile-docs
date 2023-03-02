@@ -1,4 +1,4 @@
-## Title of Story: Simple Wireframe of the Website
+## Story title: Simple Wireframe of the Website
 
 **Description:** As a web designer, I want to create a simple wireframe of the
 website so that the stakeholders can visualize the layout and structure of the
