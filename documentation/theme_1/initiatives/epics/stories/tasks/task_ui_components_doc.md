@@ -1,10 +1,8 @@
 # Task Title: UI Components on Main Website
 
-## User Story
+### User Story: [Simple wireframe of the website](../story_wireframe_doc.md)
 
-- [Simple wireframe of the website](../story_wireframe_doc.md)
-
-## Description
+### Description
 
 The task is to design and implement UI components on the main website, including
 but not limited to buttons, forms, dropdowns, and modals. The design should be
@@ -21,7 +19,7 @@ the wireframe design and approval from the client.
 
 ### Status: Not started
 
-## Notes
+### Notes
 
 The design team will collaborate with the development team to ensure the
 implementation of the UI components meets the design specifications.
