@@ -54,4 +54,4 @@ High
 
 # List Stories related to this theme
 
-- (Simple wireframe of the website)[]
+- [Simple wireframe of the website]()
