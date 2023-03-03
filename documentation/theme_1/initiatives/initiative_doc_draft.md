@@ -1,4 +1,5 @@
-<!-- 2. Misplaced file - structural issue: this initiative should be moved into the initiatives folder.  -->
+<!-- 2. Misplaced file - structural issue: this initiative should be moved into the initiatives folder. COMPLETED -->
+
 # Initiative: Draft Initial Project Documentation to Establish a Well-Defined Project Scope
 
 ## Description
@@ -73,5 +74,5 @@ stakeholders.
 
 # List epics related to this theme
 
-1. [Documentation for the website design](epics/epic_web_design_doc.md)
-   Note: This is just an example of one epic that relates to this initiative.
+1. [Documentation for the website design](epics/epic_web_design_doc.md) Note:
+   This is just an example of one epic that relates to this initiative.
