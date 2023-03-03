@@ -1,8 +1,10 @@
 # Integrating Bamboo into our project
 
 ## User Story
-<!-- 1. Broken link: This link is supposed to link back to the story that creates this task, which is to implement a continuous integration tool.-->
-[Implement an Continuous Integration Tool]()
+
+<!-- 1. Broken link: This link is supposed to link back to the story that creates this task, which is to implement a continuous integration tool. COMPLETED -->
+
+[Implement an Continuous Integration Tool](../story_CI_tool.md)
 
 ## Description
 
