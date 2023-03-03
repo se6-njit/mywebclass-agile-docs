@@ -19,5 +19,8 @@ can easily find the information I need and complete tasks efficiently.
 - The web application should be fully functional and free of bugs or errors,
   providing a seamless user experience.
 
+<!-- 4. Missing Task - this story does not have a task to be worked on.  COMPLETED -->
+
 # List Tasks related to this theme
-<!-- 4. Missing Task - this story does not have a task to be worked on.  -->
+
+1. [Implement Media Queries for Different Screen Sizes](tasks/task_media_queries.md)
