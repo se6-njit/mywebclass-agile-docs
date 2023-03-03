@@ -38,5 +38,5 @@ aligns with our business goals and delivers value to our customers.
     framework, using the TDD (Test-driven development) approach, etc.
 
 ## Test plan(s)
-
+<!-- 5. You need a test plan here to be able to gauge the progress of the project and how good it is at accomplishing the requirements it set out to do.  -->
 -

@@ -1,3 +1,4 @@
+<!-- 2. Misplaced file - structural issue: this initiative should be moved into the initiatives folder.  -->
 # Initiative: Draft Initial Project Documentation to Establish a Well-Defined Project Scope
 
 ## Description
