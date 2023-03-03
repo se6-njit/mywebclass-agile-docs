@@ -20,5 +20,3 @@ can easily find the information I need and complete tasks efficiently.
   providing a seamless user experience.
 
 # List Tasks related to this theme
-
-1. [Implement Media Queries for Different Screen Sizes](tasks/task_media_queries.md)

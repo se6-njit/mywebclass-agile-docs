@@ -2,7 +2,7 @@
 
 ## User Story
 
-[Implement an Continuous Integration Tool](../story_CI_tool.md)
+[Implement an Continuous Integration Tool]()
 
 ## Description
 
