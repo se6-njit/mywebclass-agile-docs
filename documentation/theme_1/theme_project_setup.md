@@ -37,6 +37,12 @@ aligns with our business goals and delivers value to our customers.
   - This will involve the development of the website using a particular
     framework, using the TDD (Test-driven development) approach, etc.
 
+<!-- 5. You need a test plan here to be able to gauge the progress of the project and how good it is at accomplishing the requirements it set out to do. COMPLETED -->
+
 ## Test plan(s)
-<!-- 5. You need a test plan here to be able to gauge the progress of the project and how good it is at accomplishing the requirements it set out to do.  -->
--
+
+- Use Google Analytics to monitor user behavior.
+- Utilize Playwright for automated browser testing.
+- Regularly check the website for W3C validation.
+- Use Lighthouse for overall website performance assessment.
+- Implement GDPR Scanner for compliance with GDPR regulations.
